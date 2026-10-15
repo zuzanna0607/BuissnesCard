@@ -10,6 +10,8 @@
             Console.WriteLine("Opleiding:           Graduaat Programeren");
             Console.WriteLine("Klasgroep:           1PROB");
             Console.WriteLine("Leukste olod:        C# ");
+
+            Console.WriteLine("Groetjes van schatje xx Mar");
         }
     }
 }
