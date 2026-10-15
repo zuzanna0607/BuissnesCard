@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine("Zuzanna");
+            Console.ResetColor();
+            Console.WriteLine("Opleiding:           Graduaat Programeren");
+            Console.WriteLine("Klasgroep:           1PROB");
+            Console.WriteLine("Leukste olod:        C# ");
         }
     }
 }
